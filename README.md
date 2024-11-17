@@ -1,19 +1,25 @@
-# ¡Hola, Me llamo Victor 👋 Bienvenido a mi perfil de GitHub
+# ¡Hola! Me llamo Victor 👋 Bienvenido a mi perfil de GitHub
 
-Soy un chico apasionado con el mundo de la programación, actualmente estudiando Ingeniería en Informatica en Inacap,Temuco.
-Me encanta el hecho de estar aprendiendo cosas nuevas, aunque a veces sea frustrante el exito al final siempre vale la pena.
-Actualmente estoy trabajando mucho el tema de paginas web, en varios ramos y a su ves en un proyecto junto a mi grupo.
+Soy un chico apasionado por el mundo de la programación, actualmente estudiando **Ingeniería en Informática** en **Inacap, Temuco**.  
+Me encanta aprender cosas nuevas, y aunque a veces pueda ser frustrante, ¡el éxito al final siempre vale la pena!  
+Actualmente, estoy trabajando en el desarrollo de **páginas web** como parte de mis ramos y en un proyecto emocionante con mi grupo.  
+
+---
 
 ## 🔧 Tecnologías y herramientas
-- **Lenguajes**: Python, Javascript
+- **Lenguajes**: Python, JavaScript
 - **Frameworks**: Django
 - **Herramientas**: Git
 
+---
+
 ## 🌱 En qué estoy trabajando
-- [Proyecto 1]: Proyecto Terranova, para un ramo de la universidad
+- **Proyecto Terranova**: Proyecto universitario enfocado en desarrollar un sistema para ayudar al registro de material con el que trabajan.
+
+---
 
 ## 📫 Cómo contactarme
-- ✉️ davidrubilar0106@gmail.com
-- 🐦 @Korossuh
+- ✉️ **Correo**: [davidrubilar0106@gmail.com](mailto:davidrubilar0106@gmail.com)
+- 🐦 **Twitter**: [@Vict0rDev](https://x.com/Vict0rDev)
 
 ---
