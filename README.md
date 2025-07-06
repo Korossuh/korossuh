@@ -15,7 +15,7 @@ Actualmente, estoy trabajando en el desarrollo de **páginas web** como parte de
 
 ## 🌱 En qué estoy trabajando
 - **Proyecto Terranova**: Proyecto universitario enfocado en desarrollar un sistema para ayudar al registro de material con el que trabajan.
-- **Proyecto Sistema Hoteleria**: Proyecto universitario que tiene como objetivo desarrollar un sistema para el control de pasajeros del hotel ficticio "Duerman Bien"
+- **Yuma**: Una app de Notas, que tiene diferentes funciones y objetivos [enlace](https://github.com/Korossuh/Yuma) 
 ---
 
 ## 📫 Cómo contactarme
